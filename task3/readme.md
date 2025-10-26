@@ -1,0 +1,1 @@
+### This demonstrates hands-on exploitation of a classic SQL Injection vulnerability using the Damn Vulnerable Web Application (DVWA) platform. It also covers extraction and recovery of user password hashes, followed by successful cracking of those hashes using CrackStation.
